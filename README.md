@@ -1,0 +1,3 @@
+# me
+
+IRC /me command for your shell... Useless but sometimes you might need to talk to yourself....
